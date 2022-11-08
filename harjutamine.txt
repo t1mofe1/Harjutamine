@@ -1,3 +1,5 @@
 GitHub on Microsofti tütarfirma, mis pakub tarkvaraarendajatele veebimajutusteenust, kasutades Giti tarkvara. GitHub põhineb Giti hajutatud versioonihaldusel ja lähtekoodihaldusel, kuid lisab neile veel võimalusi, näiteks võimalust kontrollida, kes pääseb koodile juurde, koodi veakontrolli, tarkvara funktsioonide taotlust ning igale projektile oma vikit.
 
 Mina kasutan GitHub'i juba mitu aastat oma projektide majutuseks ja enda portfooliona.
+
+GitHub Inc. asutati Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007. GitHubi teenus muutus kättesaadavaks 2008. Microsofti ostis GitHub'i 2018. aastal 7,5 miljardi dollari eest. GitHubi teenus on suurelt jaolt tasuta, kuid GitHub pakub tasu eest teenust IT-professionaalidele, töörühmadele ja ettevõtetele. GitHubi tasuta teenust kasutatakse tihtipeale avatud lähtekoodiga tarkvara arenduseks. Aastast 2019 saavad kõik GitHubi kasutajad, kaasa arvatud tasuta teenuse kasutajad, luua piiramatult privaatseid koodivaramuid.
