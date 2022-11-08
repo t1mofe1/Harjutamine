@@ -1,0 +1,1 @@
+GitHub on Microsofti tütarfirma, mis pakub tarkvaraarendajatele veebimajutusteenust, kasutades Giti tarkvara. GitHub põhineb Giti hajutatud versioonihaldusel ja lähtekoodihaldusel, kuid lisab neile veel võimalusi, näiteks võimalust kontrollida, kes pääseb koodile juurde, koodi veakontrolli, tarkvara funktsioonide taotlust ning igale projektile oma vikit.
